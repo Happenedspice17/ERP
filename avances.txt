@@ -1,0 +1,11 @@
+Avances del proyecto
+
+Lo que llevamos hasta ahorita 
+* El menu principal con un login de admin y logout
+* Las diferentes ventanas en archivos diferentes
+* Las funciones definidas de cada ventanas
+
+Lo que falta
+* Completar cada funcion con la base de datos
+* Buscar los roles para abrir diferentes menus
+* Hacer un menu por cada rol para lo que puede acceder
